@@ -35,7 +35,7 @@ header {
     box-shadow: 8px 8px 5px #444;
 }
 
-main {
+#maincont {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -84,5 +84,84 @@ main {
 #homeimg {
     display: inline-block;
     height: 300px;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#thinkercont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#thinkerimgdiv {
+    margin-left: 15%;
+}
+
+#thinkerimg {
+    display: inline-block;
+    height: 400px;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#thinkertxt {
+    margin-right: 15%;
+    margin-left: 150px;
+}
+
+#thinkerh2 {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: fit-content;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#thinkerp {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 5px #444;
+
+}
+
+#fashioncont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#fashiontxt {
+    margin-right: 150px;
+    margin-left: 15%;
+}
+
+#fashionh2 {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: fit-content;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#fashionp {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#fashionimgdiv {
+    margin-right: 15%;
+}
+
+#fashionimg {
+    display: inline-block;
+    height: 400px;
     box-shadow: 8px 8px 5px #444;
 }
