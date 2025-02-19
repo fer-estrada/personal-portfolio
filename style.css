@@ -165,3 +165,121 @@ header {
     height: 400px;
     box-shadow: 8px 8px 5px #444;
 }
+
+#budgetercont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#budgetertxt {
+    margin-right: 150px;
+    margin-left: 15%;
+}
+
+#budgeterh2 {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: fit-content;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#budgeterp {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#budgeterimgdiv {
+    margin-right: 15%;
+}
+
+#budgeterimg {
+    display: inline-block;
+    height: 400px;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#gamecont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#gameimgdiv {
+    margin-left: 15%;
+}
+
+#gameimg {
+    display: inline-block;
+    height: 400px;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#gametxt {
+    margin-right: 15%;
+    margin-left: 150px;
+}
+
+#gameh2 {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: fit-content;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#gamep {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 5px #444;
+
+}
+
+#aicont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#aitxt {
+    margin-right: 150px;
+    margin-left: 15%;
+}
+
+#aih2 {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: fit-content;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#aip {
+    display: inline-block;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 5px #444;
+}
+
+#aiimgdiv {
+    margin-right: 15%;
+}
+
+#aiimg {
+    display: inline-block;
+    height: 400px;
+    box-shadow: 8px 8px 5px #444;
+}
