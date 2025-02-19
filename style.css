@@ -87,29 +87,29 @@ header {
     box-shadow: 8px 8px 5px #444;
 }
 
-#thinkercont {
+#philocont {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 30px;
 }
 
-#thinkerimgdiv {
+#philoimgdiv {
     margin-left: 15%;
 }
 
-#thinkerimg {
+#philoimg {
     display: inline-block;
     height: 400px;
     box-shadow: 8px 8px 5px #444;
 }
 
-#thinkertxt {
+#philotxt {
     margin-right: 15%;
     margin-left: 150px;
 }
 
-#thinkerh2 {
+#philoh2 {
     display: inline-block;
     border: 5px solid whitesmoke;
     box-sizing: border-box;
@@ -118,7 +118,7 @@ header {
     box-shadow: 8px 8px 5px #444;
 }
 
-#thinkerp {
+#philop {
     display: inline-block;
     border: 5px solid whitesmoke;
     box-sizing: border-box;
