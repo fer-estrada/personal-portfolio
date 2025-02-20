@@ -10,6 +10,22 @@ header {
    text-align-last: justify;
 }
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 #mainh1 {
     display: inline-block;
     font-size: 32px;
@@ -75,6 +91,7 @@ header {
     width: 75%;
     margin-top: 15px;
     box-shadow: 8px 8px 5px #444;
+    font-size: 20px;
 }
 
 #imgcontainer {
